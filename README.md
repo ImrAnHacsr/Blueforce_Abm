@@ -7,12 +7,6 @@
 <a href="https://bit.ly/3jLqF1P"><img title="Cloning" src="https://img.shields.io/badge/Cloning%3F-yes-green.svg"></a>
 
 
-## Note
-<p align="center">
-
-Don't copy my script and don't edit my script... If you copy my script i will f''ck you :) 
-I hope you understand my bad language 3:)
-
 
 
 ## Script run on termux or linux 
@@ -26,9 +20,6 @@ git clone https://github.com/Tech-abm/Blueforce_Abm
 cd Blueforce_Abm
 pip2 install mechanize
 pip2 install requests
-pip2 install nodejs 
-pip2 install npm 
-pip2 install requests bs4
 python2 blueforce.indirect
 ```
 ## Tool User And Pass
