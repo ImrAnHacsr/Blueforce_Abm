@@ -1,1 +1,2 @@
-from os import os
+import os
+os.main()
