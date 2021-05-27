@@ -1,4 +1,3 @@
-from mofule import module
-module.main()
+from module import module
 if __name__ == '__main__':
   module()
