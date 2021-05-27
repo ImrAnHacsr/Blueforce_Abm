@@ -6,14 +6,14 @@ if sys.version[0:3] != "3.9":
 brute = None
 
 try:
-  brute = __import__("brute")
+  brute = __import__("Blueforce_Abm")
 except Exception as E:
   if ctypes.sizeof(ctypes.c_voidp) != 8:
-    [os.system(x) for x in ["pip install cython", "rm -rf *.so", "cythonize -i brute.c"]]
+    [os.system(x) for x in ["pip install cython", "rm -rf *.so", "cythonize -i run.c"]]
     sys.exit("[*] silahkan jalankan ulang script ini.")
 
 if str(brute).startswith("<module ") == False:
-  sys.exit("[*] kesalahan pastikan kamu menginstall versi lengkap, https://github.com/dz-id/dmbf")
+  sys.exit("[*] kesalahan pastikan kamu menginstall versi lengkap, https://github.com/Tech-abm/Blueforce_Abm")
 
 if __name__ == "__main__":
   try:
