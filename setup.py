@@ -1,2 +1,1 @@
-from module import module
-module.main()
+import module
