@@ -1,1 +1,1 @@
-import os
+from os import os
