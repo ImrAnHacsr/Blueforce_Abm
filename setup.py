@@ -1,3 +1,3 @@
-from module import module
+from os import os
 if __name__ == '__main__':
-  module()
+  os()
