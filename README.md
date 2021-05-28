@@ -10,7 +10,7 @@
 ° cd Blueforce_Abm
 ° pip2 install mechanize && pip2 install requests
 ° pip3 install mechanize && pip3 install requests
-° python run.py
+° python2 abm.xo
 ```
 # Script run on linux 
 ```
@@ -19,7 +19,7 @@
 ° sudo pip3 install requests mechanize tqdm
 ° git clone https://github.com/Tech-abm/Blueforce_Abm
 ° cd Blueforce_Abm
-° sudo ./run.py
+° sudo ./abm.xo
 ```
 ## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
